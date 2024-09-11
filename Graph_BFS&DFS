@@ -69,8 +69,7 @@ if(count==n-1)
 printf("\n Graph is connected"); 
 else 
 printf("\n Graph is not connected"); 
-Page 51 
-BMSIT&M, Bangalore, Dept of CSE 
+ 
  
  
 break;  
