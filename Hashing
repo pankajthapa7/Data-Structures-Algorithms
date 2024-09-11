@@ -24,8 +24,7 @@ scanf("%d",&ans);
 }while(ans); 
 display(a); 
 } 
-BMSIT&M, Bangalore, Dept of CSE 
-Page 54 
+
 int create(int num) 
 { 
 int key; 
